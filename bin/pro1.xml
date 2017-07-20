@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>从Properties对象导出到xml文件中</comment>
+<entry key="Year">2017</entry>
+<entry key="url">http://wwww.baidu.com</entry>
+<entry key="id">YJY</entry>
+<entry key="name1">Echo</entry>
+<entry key="xpath">//id=112</entry>
+<entry key="phone">10086</entry>
+<entry key="gender">female</entry>
+<entry key="FirstName">Yan</entry>
+<entry key="SecondName">Jiayin</entry>
+<entry key="interest">singing</entry>
+<entry key="age">24</entry>
+<entry key="text">12345</entry>
+</properties>
